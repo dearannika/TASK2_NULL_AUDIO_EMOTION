@@ -1,0 +1,1 @@
+print(f'Features extracted: {x_train.shape[1]}')

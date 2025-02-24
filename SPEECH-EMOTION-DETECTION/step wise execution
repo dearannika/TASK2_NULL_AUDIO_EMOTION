@@ -1,0 +1,11 @@
+install library
+make necessary imports
+extract the features from audio file
+define dictionary
+load the data
+split data into dataset
+get the shape of training model
+get number of feature extracted
+train the model
+predict the values
+calculate the accuracy of our model

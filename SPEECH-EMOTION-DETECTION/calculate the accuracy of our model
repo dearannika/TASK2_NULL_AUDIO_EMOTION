@@ -1,0 +1,3 @@
+accuracy=accuracy_score(y_true=y_test, y_pred=y_pred)
+#DataFlair - Print the accuracy
+print("Accuracy: {:.2f}%".format(accuracy*100))
